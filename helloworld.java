@@ -5,6 +5,9 @@ public class JavaHelloWorldProgram {
 
 	public static void main(String args[]){
 		System.out.println("Hello World");
+            
+               //  Prints "Hello World" in terminal window            
+
 		System.out.println("Welcome to Git");
 
 	}
